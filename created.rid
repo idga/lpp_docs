@@ -1,0 +1,23 @@
+Mon, 09 Dec 2019 22:58:34 +0000
+./bin/console	Mon, 09 Dec 2019 14:50:41 +0000
+./bin/setup	Mon, 09 Dec 2019 14:50:41 +0000
+./CODE_OF_CONDUCT.md	Mon, 09 Dec 2019 14:50:41 +0000
+./Gemfile	Mon, 09 Dec 2019 14:50:41 +0000
+./Gemfile.lock	Mon, 09 Dec 2019 20:30:37 +0000
+./Guardfile	Mon, 09 Dec 2019 14:50:41 +0000
+./lib/prct6/list.rb	Mon, 09 Dec 2019 22:53:12 +0000
+./lib/prct6/list.rb.save	Mon, 09 Dec 2019 14:50:41 +0000
+./lib/prct6/plato_ambiental.rb	Mon, 09 Dec 2019 22:54:46 +0000
+./lib/prct6/plato_energia.rb	Mon, 09 Dec 2019 22:56:36 +0000
+./lib/prct6/prct6.rb	Mon, 09 Dec 2019 22:57:46 +0000
+./lib/prct6/version.rb	Mon, 09 Dec 2019 14:50:41 +0000
+./lib/prct6.rb	Mon, 09 Dec 2019 14:50:41 +0000
+./prct6.gemspec.save	Mon, 09 Dec 2019 14:50:41 +0000
+./Rakefile	Mon, 09 Dec 2019 14:50:41 +0000
+./README.md	Mon, 09 Dec 2019 14:50:41 +0000
+./spec/list_spec.rb	Mon, 09 Dec 2019 14:50:41 +0000
+./spec/menu_spec.rb	Mon, 09 Dec 2019 22:24:23 +0000
+./spec/plato_spec.rb	Mon, 09 Dec 2019 14:50:41 +0000
+./spec/prct6_spec.rb	Mon, 09 Dec 2019 14:50:41 +0000
+./spec/prct6_spec.rb.save	Mon, 09 Dec 2019 14:50:41 +0000
+./spec/spec_helper.rb	Mon, 09 Dec 2019 14:50:41 +0000
